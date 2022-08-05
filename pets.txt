@@ -1,3 +1,5 @@
 chickens 
 dog
 cat 
+rabbit 
+tortoise
