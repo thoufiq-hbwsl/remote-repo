@@ -3,3 +3,6 @@ dog
 cat 
 rabbit 
 tortoise
+
+cow 
+mouse
